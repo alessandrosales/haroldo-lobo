@@ -1,0 +1,67 @@
+# robots.txt - Haroldo Lobo Advogados
+# Conteúdo público liberado para buscadores e mecanismos de resposta por IA.
+
+User-agent: *
+Allow: /
+
+# Buscadores tradicionais
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+# Mecanismos de busca e resposta por IA
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: Claude-User
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: meta-externalagent
+Allow: /
+
+User-agent: cohere-ai
+Allow: /
+
+# Corpus público (favorece menções e citações por IA)
+User-agent: CCBot
+Allow: /
+
+Sitemap: https://haroldoloboadvogados.com/sitemap.xml

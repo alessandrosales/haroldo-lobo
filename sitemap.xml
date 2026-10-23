@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://haroldoloboadvogados.com/</loc>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://haroldoloboadvogados.com/og-image.jpg</image:loc>
+      <image:title>Haroldo Lobo Advogados</image:title>
+      <image:caption>Escritório de advocacia em direito bancário e defesa do consumidor.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://haroldoloboadvogados.com/img-sobre.webp</image:loc>
+      <image:title>Equipe do escritório Haroldo Lobo Advogados</image:title>
+      <image:caption>Equipe do escritório Haroldo Lobo Advogados.</image:caption>
+    </image:image>
+  </url>
+</urlset>
